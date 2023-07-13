@@ -6,7 +6,8 @@ use unity 2021.3.19f1 (LTS) if possible
 from package manager download xr interaction toolkit and its starter assets.
 if any errors occur make sure you did setup the input action manager on the XR Origin object, and imported the default templates for both hands.
 
-short desc about the scripts:
+short description about the scripts:
+
 CubeController.cs is assigned to the cubes that get instantiated in the scene. it manages the movement and snapping for the cube
 
 InputsManager.cs stores data for inputs (rn it only stores data for the grip force)
