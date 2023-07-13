@@ -1,4 +1,4 @@
-# vr-challenge
+# building blocks vr
 
 # for setup:
 
